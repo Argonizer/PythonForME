@@ -1,0 +1,6 @@
+from random import randint
+
+#This program generates a random uppercase alphabet
+
+code = randint(65, 90)
+print(chr(code))
