@@ -1,10 +1,13 @@
 # PythonForME
 Python Programming for Mechanical Engineers Course, 
-covering basic Python concepts, 
-Python 2D, 
-Python 3D and 
-Raspberry pi Programming
+covering 
+1. Basic Python concepts, 
+2. Python 2D, 
+3. Python 3D and 
+4. Raspberry pi Programming
 
 Tutored 
 at Hindustan College of Science and Technology, Mathura, India
 by Akshay Rawal
+
+The contents of this repository is all the code that has been discussed and created in this workshop.
