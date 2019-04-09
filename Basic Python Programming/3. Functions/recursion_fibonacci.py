@@ -1,7 +1,7 @@
 num = int(input("Enter nth term of Fibonacci series\n"))
 
 def fibonacci(num):
-    fact = 1
+ #fib = 1
     if(num == 2):
         fib = 1
     elif num == 1:
@@ -11,3 +11,6 @@ def fibonacci(num):
     return fib
 
 print("The", num, "th term of fibonacci series is", fibonacci(num))
+
+
+0, 1, 1, 2, 3, 5, 8, 13, 21
