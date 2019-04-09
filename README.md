@@ -1,4 +1,7 @@
 # PythonForME
+
+MESA (Mechanical Engineering Students' Association) Coding Club at Hindustan College of Science and Technology.
+
 Python Programming for Mechanical Engineers Course, 
 covering 
 1. Basic Python concepts, 
